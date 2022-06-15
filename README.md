@@ -109,6 +109,11 @@ Despues realizo una presentacion para cada una de las caracteristicas: Metodo de
 
 ## Conclusiones:
 
-Pendiente...
+Podemos observar que las ventas de este dataset son mucho mayores en los meses de Noviembre-Diciembre, por lo que decimos que hay un periodo de estacionalidad en las ventas. Ademas vemos un aumento en la cantidad de ventas desde el primer año hacia los otros 2.
 
-https://www.mediafire.com/folder/w6o13bsw3jqoc/Tablas
+En las categorias "Mobiles & Tables" tiene la mayor cuota del mercado con un 58% de las ventas, por lo tanto podemos concluir que de esta categoria la empresa depende en gran medida su funcionamiento. Sumando las categorias "Appliances" y "Entertainement" vemos que estas 3 categorias juntas corresponden a casi el 88% de las ventas de la empreas, dejando muy por detras al resto de categorias.
+
+En Estado de compra vemos un detalla muy curioso y preocupante, el 63% de las ventas de la empresa estan canceladas dejando solo un 25% como completadas. Esto es una muy mala señal para la empresa debido a que son muchisimos productos que razones desconocidas no llegan al cliente, aun cuando el mismo eligio comprar el producto.
+
+Para los Metodos de Pago vemos una distribucion mucho mas uniforme (en comparacion con los demas), siendo los metodos "cod", "Payaxis" y "Easypay" los mas utilizados teniendo cerca del 75% de las transacciones totales. Tambien un dato interesante sucede en los meses de Mayo-Junio-Julio doende el metodo de pago "Bankalfalah" es el mas utilizado por amplia diferencia.
+
